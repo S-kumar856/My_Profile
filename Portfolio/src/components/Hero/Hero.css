@@ -1,0 +1,34 @@
+.img{
+    height: 300px;
+    width: 300px;
+    border-radius: 50%;
+    background-color: white;
+    object-fit:cover;   
+    padding: 20px;
+}
+
+.hero{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    gap: 35px;
+}
+
+.hero img{
+    margin-top: 150px;
+}
+
+.hero h1{
+    font-size: 70px;
+    text-align: center;
+    width: 70%;
+    font-weight: 600;
+}
+
+.hero h1 span{
+    background: linear-gradient(270deg, #DA7C25  10%, #B923E1 100%);
+    background-clip: text;
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
+}
+

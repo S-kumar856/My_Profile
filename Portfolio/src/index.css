@@ -7,12 +7,11 @@
     margin: 0;
     padding: 0;
     box-sizing: border-box;
-    font-family: gilroy;
-
 }
 
 html,body{
-    height: 100%;
-    width: 100%;
-    background-color: #111;
+    height: 100vh;
+    background-color: #161513;
+    color: white;
+    font-family: outfit;
 }
