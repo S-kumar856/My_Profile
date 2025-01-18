@@ -17,35 +17,36 @@ const About = () => {
                 </div>
                 <div className="about-right">
                     <div className="about-para">
-                        <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. 
-                        Fugit error natus inventore obcaecati quaerat nulla excepturi. 
-                        Molestias aut nesciunt deserunt.</p>
-                        <p>Lorem ipsum dolor sit, amet consectetur adipisicing elit. Reprehenderit, nisi?</p>
+                        <p>A Self-motivated, highly passionate, and hardworking person looking for an opportunity
+                            to work in an organization to upgrade my skills and contribute for the growth of the organization.
+                            I am an enthusiastic and quick learner with a fun, outgoing personality.</p>
+                        <p>My Passion for software development is not only reflected in my
+                            extensive experience but also in the enthusiam and dedication i bring to each project</p>
                     </div>
                     <div className="about-skills">
                         <div className="about-skill">
-                            <p>HTML & CSS</p> <hr style={{width:"80%"}} />
+                            <p>HTML & CSS</p> <hr style={{ width: "80%" }} />
                         </div>
                         <div className="about-skill">
-                            <p>ReactJS</p> <hr style={{width:"70%"}} />
+                            <p>ReactJS</p> <hr style={{ width: "70%" }} />
                         </div>
                         <div className="about-skill">
-                            <p>JavaScript</p> <hr style={{width:"80%"}} />
+                            <p>JavaScript</p> <hr style={{ width: "80%" }} />
                         </div>
                         <div className="about-skill">
-                            <p>NodeJS</p> <hr style={{width:"50%"}} />
+                            <p>NodeJS</p> <hr style={{ width: "50%" }} />
                         </div>
                         <div className="about-skill">
-                            <p>MongoDB</p> <hr style={{width:"50%"}} />
+                            <p>MongoDB</p> <hr style={{ width: "50%" }} />
                         </div>
                         <div className="about-skill">
-                            <p>ExpressJS</p> <hr style={{width:"50%"}} />
+                            <p>ExpressJS</p> <hr style={{ width: "50%" }} />
                         </div>
                         <div className="about-skill">
-                            <p>Python</p> <hr style={{width:"75%"}} />
+                            <p>Python</p> <hr style={{ width: "75%" }} />
                         </div>
                         <div className="about-skill">
-                            <p>Sql</p> <hr style={{width:"70%"}} />
+                            <p>Sql</p> <hr style={{ width: "70%" }} />
                         </div>
                     </div>
                 </div>
