@@ -43,10 +43,7 @@ const About = () => {
                             <p>ExpressJS</p> <hr style={{ width: "50%" }} />
                         </div>
                         <div className="about-skill">
-                            <p>Python</p> <hr style={{ width: "75%" }} />
-                        </div>
-                        <div className="about-skill">
-                            <p>Sql</p> <hr style={{ width: "70%" }} />
+                            <p>Python & Sql</p> <hr style={{ width: "75%" }} />
                         </div>
                     </div>
                 </div>
